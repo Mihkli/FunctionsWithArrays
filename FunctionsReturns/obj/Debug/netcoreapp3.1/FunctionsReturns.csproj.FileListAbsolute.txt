@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\TITpe21\FunctionsWithArrays\FunctionsReturns\bin\Debug\netcoreapp3.1\FunctionsReturns.exe
+C:\Users\opilane\source\repos\TITpe21\FunctionsWithArrays\FunctionsReturns\bin\Debug\netcoreapp3.1\FunctionsReturns.deps.json
+C:\Users\opilane\source\repos\TITpe21\FunctionsWithArrays\FunctionsReturns\bin\Debug\netcoreapp3.1\FunctionsReturns.runtimeconfig.json
+C:\Users\opilane\source\repos\TITpe21\FunctionsWithArrays\FunctionsReturns\bin\Debug\netcoreapp3.1\FunctionsReturns.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\TITpe21\FunctionsWithArrays\FunctionsReturns\bin\Debug\netcoreapp3.1\FunctionsReturns.dll
+C:\Users\opilane\source\repos\TITpe21\FunctionsWithArrays\FunctionsReturns\bin\Debug\netcoreapp3.1\FunctionsReturns.pdb
+C:\Users\opilane\source\repos\TITpe21\FunctionsWithArrays\FunctionsReturns\obj\Debug\netcoreapp3.1\FunctionsReturns.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\TITpe21\FunctionsWithArrays\FunctionsReturns\obj\Debug\netcoreapp3.1\FunctionsReturns.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\TITpe21\FunctionsWithArrays\FunctionsReturns\obj\Debug\netcoreapp3.1\FunctionsReturns.AssemblyInfo.cs
+C:\Users\opilane\source\repos\TITpe21\FunctionsWithArrays\FunctionsReturns\obj\Debug\netcoreapp3.1\FunctionsReturns.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\TITpe21\FunctionsWithArrays\FunctionsReturns\obj\Debug\netcoreapp3.1\FunctionsReturns.dll
+C:\Users\opilane\source\repos\TITpe21\FunctionsWithArrays\FunctionsReturns\obj\Debug\netcoreapp3.1\FunctionsReturns.pdb
+C:\Users\opilane\source\repos\TITpe21\FunctionsWithArrays\FunctionsReturns\obj\Debug\netcoreapp3.1\FunctionsReturns.genruntimeconfig.cache
